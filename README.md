@@ -1,1 +1,2 @@
 # Suitability-in-AI-job
+Nowadays so many people showing interest in AI related jobs but they most of the people doesn't know what are the skills to be needed to secure a job in AI field and from where they learn those.For all these questions this product gives the solutions by taking details about the individual's level on a particular field and gives the percentage of suitability, if the suitability percentage is less then this product recommends the course to enhance their skills to build their carrer in AI.
